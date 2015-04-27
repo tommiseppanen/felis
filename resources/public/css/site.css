@@ -1,0 +1,56 @@
+body {
+  font-family: "Consolas", "Courier New", Courier, monospace;
+  max-width: 600px;
+  margin: 0 auto;
+  padding-top: 72px;
+  -webkit-font-smoothing: antialiased;
+  font-size: 0.8em;
+  color: #1290c3;
+  line-height: 1.75em;
+  background-color: #202020;
+  font-weight: bold;
+}
+
+li:first-child {
+ color: #a7ec21;
+}
+
+li:hover {
+ color: #a7ec21;
+}
+
+label {
+  cursor: pointer;
+}
+
+input {
+  background: #202020;
+  color: #8ddaf8;
+  width: 100%;
+  font-family: "Consolas", "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+h1, h2, h3 {
+  color: #a7ec21;
+}
+h1 {
+  font-size: 2.5em
+}
+
+h2 {
+  font-size: 2em
+}
+
+h3 {
+  font-size: 1.5em
+}
+
+a {
+  text-decoration: none;
+  color: #09f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
