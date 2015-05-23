@@ -3,6 +3,8 @@ Felis - Simple todo app
 
 This is a single page application I have been developing to study ClojureScript and Reagent.
 
+![Felis screenshot](http://tommiseppanen.github.io/screenshots/felis.png)
+
 ##How to run
 Felis is based on [reagent-template](https://github.com/reagent-project/reagent-template) so you 
 can just use "lein figwheel" command to start the development server and REPL.
